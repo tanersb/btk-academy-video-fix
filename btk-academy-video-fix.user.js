@@ -5,6 +5,7 @@
 // @description  BTK Akademi'de sekme değiştirildiğinde veya tam ekran modunda videonun durmasını engeller.
 // @author       https://github.com/tanersb
 // @match        https://www.btkakademi.gov.tr/*
+// @updateURL    https://github.com/tanersb/btk-academy-video-fix/edit/main/btk-academy-video-fix.user.js
 // @grant        none
 // ==/UserScript==
 
